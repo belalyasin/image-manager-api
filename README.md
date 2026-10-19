@@ -4,6 +4,8 @@ REST API for an image manager: users organise uploaded images into folders, tag 
 
 The Angular front end lives in [image-manager-frontend](https://github.com/belalyasin/image-manager-frontend).
 
+![The front end showing uploaded images](docs/screenshots/files.png)
+
 ## Features
 
 - Sign up, log in, log out and change password (JWT, bcrypt)
